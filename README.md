@@ -42,6 +42,8 @@ More work is in my [repositories](https://github.com/Mr00Zero7170?tab=repositori
 
 ## Contact
 
-[GitHub](https://github.com/Mr00Zero7170)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,50:12233b,100:0b0f14&height=100&section=footer&reversal=true" width="100%" alt="" />
+<p>
+  <a href="https://www.linkedin.com/in/krishna-bisht-671366202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:krishnabisht.817@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Mr00Zero7170"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
